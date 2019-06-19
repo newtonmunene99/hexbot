@@ -28,7 +28,7 @@ And then display it:
 
 ![](https://user-images.githubusercontent.com/212941/59164532-12317e00-8ac3-11e9-88ee-2d1248f17e7a.png)
 
-Job well done. We all have to start somewhere!
+Job well done. We all have to start somewhere.
 
 Now let's make it more interesting...
 
